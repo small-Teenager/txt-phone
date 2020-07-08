@@ -26,3 +26,6 @@ target
 .mvn
 .idea
 *.iml
+!/src/main/resources/output/output.txt
+!/src/main/resources/input/input.txt
+!/src/main/resources/input/0708.txt
