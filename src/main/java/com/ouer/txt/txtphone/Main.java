@@ -27,14 +27,14 @@ public class Main {
         System.err.println("start");
 
         // 输入的手机号文件
-        List<String> input = main.readTxtFile("src/main/resources/input/input.txt");
+        List<String> input = main.readTxtFile("src/main/resources/input/0708.txt");
 
         // 需要过滤的城市  "北京","上海","广州","深圳","杭州","厦门","福州","长沙","南昌"
-        List<String> citys = Arrays.asList("北京","上海","广州","深圳","杭州","厦门","福州","长沙","南昌");
+        List<String> citys = Arrays.asList("北京", "上海", "广州", "深圳", "杭州", "厦门", "福州", "长沙", "南昌");
 
         // 输出的手机号文件
         Set<String> output = main.outputPhone(resource, input, citys);
-
+        System.err.println("output end");
         main.outputTxtFile(output, "src/main/resources/output/output.txt");
     }
 
@@ -137,11 +137,11 @@ public class Main {
     /**
      * 过滤排除指定城市的手机号
      *
-     * @param resource 原始资源 {@link com.ouer.txt.txtphone.Main #readTxtFile}
-     * @param input    输入的手机号 {@link com.ouer.txt.txtphone.Main #readTxtFile}
+     * @param resource 原始资源
+     * @param input    输入的手机号
      * @param citys    需要过滤的不在指定的城市
      * @return 输出的手机号
-     * @link
+     * @see Main#readTxtFile(String)
      */
     private Set<String> outputPhone(List<String> resource, List<String> input, List<String> citys) {
         Set<String> output = new HashSet<>();
