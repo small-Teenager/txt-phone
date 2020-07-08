@@ -83,7 +83,8 @@ public class Main {
     /**
      * 输出资源文件
      *
-     * @param path 资源路径
+     * @param output 输出资源的手机号
+     * @param path   资源路径
      */
     @SuppressWarnings("resource")
     private void outputTxtFile(Set<String> output, String path) {
@@ -116,11 +117,6 @@ public class Main {
                 if (null != bw) {
                     bw.close();
                 }
-            } catch (IOException e) {
-                log.error("method:{}, message:{}", this.getClass().getName(), e.getMessage());
-                e.printStackTrace();
-            }
-            try {
                 if (null != fw) {
                     fw.close();
                 }
@@ -137,11 +133,11 @@ public class Main {
     /**
      * 过滤排除指定城市的手机号
      *
-     * @param resource 原始资源
-     * @param input    输入的手机号
+     * @param resource 原始资源  {@link #readTxtFile}
+     * @param input    输入的手机号 {@link #readTxtFile}
      * @param citys    需要过滤的不在指定的城市
      * @return 输出的手机号
-     * @see Main#readTxtFile(String)
+     * @see
      */
     private Set<String> outputPhone(List<String> resource, List<String> input, List<String> citys) {
         Set<String> output = new HashSet<>();
