@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bae30d1-eee6-4907-8104-d83e23bec7f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eM5ZCrdWq0LX4LcUfBsUni0QS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/input" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sdk\txt-phone\src\main\resources\input" />
+      <recent name="E:\sdk\txt-phone\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouer.txt.txtphone.Main" />
+      <module name="txt-phone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouer.txt.txtphone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxtPhoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="txt-phone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ouer.txt.txtphone.TxtPhoneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bae30d1-eee6-4907-8104-d83e23bec7f6" name="Default Changelist" comment="" />
+      <created>1594118674973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594118674973</updated>
+      <workItem from="1594118678098" duration="2799000" />
+      <workItem from="1594171280735" duration="6832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1594171776186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594171776186" />
+    <state x="437" y="53" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594174780581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="53" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594174780581" />
+    <state width="422" height="438" key="DebuggerActiveHint" timestamp="1594177987142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="422" height="438" key="DebuggerActiveHint/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594177987142" />
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.0.center" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.0.left" timestamp="1594178144239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144239" />
+    <state width="1322" height="176" key="GridCell.Tab.0.right" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.1.bottom" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.1.center" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.1.left" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state width="1322" height="176" key="GridCell.Tab.1.right" timestamp="1594178144240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594178144240" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594177379803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594177379803" />
+    <state x="359" y="95" width="647" height="538" key="find.popup" timestamp="1594177716163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="95" width="647" height="538" key="find.popup/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1594177716163" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ouer/txt/txtphone/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ouer/txt/txtphone/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
